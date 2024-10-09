@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\DimDate.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|solutionrelative:ClusterDWH\\DimDate.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\FactMeasure.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|solutionrelative:ClusterDWH\\FactMeasure.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\DimCompany.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|solutionrelative:ClusterDWH\\DimCompany.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\DimCluster.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{FADEE78F-A77B-4EAD-B5CF-9E50C8F95675}|ClusterDWH\\ClusterDWH.dtproj|solutionrelative:ClusterDWH\\DimCluster.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DimDate.dtsx [Design]",
+              "DocumentMoniker": "E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\DimDate.dtsx",
+              "RelativeDocumentMoniker": "ClusterDWH\\DimDate.dtsx",
+              "ToolTip": "E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\DimDate.dtsx [Design]*",
+              "RelativeToolTip": "ClusterDWH\\DimDate.dtsx [Design]*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-25T02:20:20.3Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactMeasure.dtsx [Design]",
+              "DocumentMoniker": "E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\FactMeasure.dtsx",
+              "RelativeDocumentMoniker": "ClusterDWH\\FactMeasure.dtsx",
+              "ToolTip": "E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\FactMeasure.dtsx [Design]",
+              "RelativeToolTip": "ClusterDWH\\FactMeasure.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-25T02:20:21.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DimCompany.dtsx [Design]",
+              "DocumentMoniker": "E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\DimCompany.dtsx",
+              "RelativeDocumentMoniker": "ClusterDWH\\DimCompany.dtsx",
+              "ToolTip": "C:\\Users\\ABDO\\source\\repos\\ClusterDWH\\ClusterDWH\\DimCompany.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-24T15:53:14.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DimCluster.dtsx [Design]",
+              "DocumentMoniker": "E:\\Download\\Technical Assessment\\ClusterDWH_SSIS\\ClusterDWH\\DimCluster.dtsx",
+              "RelativeDocumentMoniker": "ClusterDWH\\DimCluster.dtsx",
+              "ToolTip": "C:\\Users\\ABDO\\source\\repos\\ClusterDWH\\ClusterDWH\\DimCluster.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-25T02:20:08.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

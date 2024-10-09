@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Destenation"
+  DTS:DTSID="{43DA25FD-55DC-4049-AA5D-FBC2F95EB1DF}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-LIKO1HN;Initial Catalog=ClusterDWH;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-ClusterDWH-{43DA25FD-55DC-4049-AA5D-FBC2F95EB1DF}DESKTOP-LIKO1HN.ClusterDWH;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
